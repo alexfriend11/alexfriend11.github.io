@@ -1,5 +1,7 @@
 * {
     box-sizing: border-box;
+    border-top: 1mm;
+    border-bottom:1mm
   }
   
   html {
@@ -19,9 +21,9 @@
     position: relative;
     border-top: 1mm solid red;
     border-bottom: 5mm solid red;
-    background: linear-gradient(to bottom,);
-    background: url("/img122/top-image.png") no-repeat left top,
-    url("/img122/bottom-image.png") no-repeat left bottom;
+    background: linear-gradient(to bottom, rgba(0, 0, 0, 0.159), rgba(0, 0, 0, 0) 20%, rgba(0, 0, 0, 0) 80%, rgba(0, 0, 0, 0.205)),
+    url("/img122/top-image.png") no-repeat left top,
+      url("/img122/bottom-image.png") no-repeat left bottom;
   }
   
   address {
@@ -44,7 +46,7 @@
     text-shadow: 1px 1px 1px black;
     background: url("img122/logo.png");
     border-radius: 64px;
-    box-shadow: 30px 30px 30px black;
+    box-shadow: 3px 3px 3px black;
   }
   
   /* Your CSS below here */
