@@ -1,0 +1,27 @@
+body {
+    background: white
+}
+
+.score {
+ max-height: 30mm;
+ position: relative;
+ bottom: 8mm;
+ right: 50mm;
+ left: 500mm;
+ top: 95mm;
+
+}
+
+.goat1 {
+    Max-height: 30mm;
+    position: absolute;
+    bottom: 8mm;
+    right: 50mm;
+    left: 3m;
+    top: 10mm;
+}
+
+.lebron {
+    max-width: 100%
+    max-height: 100mm
+}
