@@ -3,22 +3,19 @@ body {
 }
 
 .score {
- max-height: 30mm;
- position: relative;
- bottom: 8mm;
- right: 50mm;
- left: 500mm;
- top: 95mm;
+ max-height: 40mm;
+ position: absolute;
+ bottom: 75mm;
+left: 70mm
 
 }
 
 .goat1 {
-    Max-height: 30mm;
-    position: absolute;
-    bottom: 8mm;
-    right: 50mm;
-    left: 3m;
-    top: 10mm;
+    Max-height: 40mm;
+    position: relative;
+    bottom:75mm;
+    left: 70mm;
+   
 }
 
 .lebron {
