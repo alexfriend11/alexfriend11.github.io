@@ -11,8 +11,8 @@
 ## In-class assigments 
 ### ICA1 ()
 ### ICA2
-### ICA3
-### [ICA][def]
+### [ICA3]
+### [ICA4][def]
 ### ICA5
 ### ICA6
 ### ICA7
@@ -26,7 +26,7 @@
 ### ICA15
 
 ## weekly assigments 
-### WA1
+### [WA1][def2]
 ### WA2
 ### WA3
 ### WA4
@@ -43,3 +43,4 @@
 ## WA15
 
 [def]: http://alexfriend11.github.io/ica/ica4.html
+[def2]: http://alexfriend11.github.io/wa/wa1.html
