@@ -12,7 +12,7 @@
 ### ICA1 ()
 ### ICA2
 ### ICA3
-### ICA4: (http://alexfriend11.github.io/ica/ica4.html)
+### [ICA][def]
 ### ICA5
 ### ICA6
 ### ICA7
@@ -41,3 +41,5 @@
 ### WA13
 ### WA14
 ## WA15
+
+[def]: http://alexfriend11.github.io/ica/ica4.html
