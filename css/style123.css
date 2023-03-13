@@ -1,0 +1,83 @@
+.intro h1{
+ font-size: 40px;
+ font-family: 'Times New Roman', Times, serif;
+color: green
+   
+}
+
+.description h2{
+font-size: 20px;
+font-family: 'Times New Roman', Times, serif;
+color: black;
+grid-area:
+}
+
+.description p{
+    font-size: 15px;
+    padding: 20px 10px;
+    max-width: 1000px;
+    font-family: 'Times New Roman', Times, serif;
+    color: blac;
+    margin: right
+}
+
+nav {
+    background-color: purple;
+    padding: .8em;
+    position: sticky
+    top: 0;
+}
+
+nav ul{
+    margin: 0;
+    padding 0;
+    list-style: none;
+    display: flex;
+    flex-flow: row;
+    justify-content: space-evenly
+}
+
+nav a {
+color: black;
+text-decoration: none;
+padding: .5em 1em;
+font-family:'Times New Roman', Times, serif;
+font-size: 40px
+}
+
+nav ul :hover {
+    background-color: white; 
+}
+
+.grid {
+    padding: 0 25px;
+    margin: 0 auto;
+    max-width: 900px;
+    grid-template-columns: 2fr 1fr;
+    grid-gap: 5px
+}
+
+.grid2 {
+    padding: 0 25px;
+    margin: 0 auto;
+    max-width: 900px;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 5px
+}
+
+img{
+    width: 300px;
+    height: 300px
+}
+
+.abroadphotos{
+    margin: 0;
+    padding: 0;
+    gap: 1px;
+    grid-template-columns: 0fr 1fr;
+    display: grid;
+    grid-gap: 2px;
+    list-style: none
+}
+
+
