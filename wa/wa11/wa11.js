@@ -1,7 +1,7 @@
 const button = document.querySelector("#js-new-quote")
 button.addEventListener('click', getQuote);
 
-const endpoint = 'https://type.fit/api/quotes'
+const endpoint = 'https://images.ctfassets.net'
 
 async function getQuote() {
    // console.log("It works!");
